@@ -1234,7 +1234,7 @@ Contributions make the open-source community an amazing place to learn and creat
 
 ## 👨‍💻 Author
 
-**Dibya Prakash Pradhan**
+**Dibyaprakash Pradhan**
 
 - GitHub: [@dibyapp](https://github.com/dibyapp)
 - Repository: [java-servlets-all-concepts](https://github.com/dibyapp/java-servlets-all-concepts)
